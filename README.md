@@ -1,8 +1,8 @@
 # Awesome Web3 [![Awesome][awesome-src]][awesome-href] ![license][license-src]
 
-> A Curated list of awesome resources: articles, videos, books, demo's about Web3
+> A Curated list of awesome resources: articles, books, videos about Web3
 
-[Web3](https://github.com/cloudinary) is the third stage in the evolution of the web, and it aims to make the internet decentralized and more intelligent.
+Web3 is the third stage in the evolution of the web, and it aims to make the internet decentralized and more intelligent.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list things_
 
