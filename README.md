@@ -84,7 +84,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Contributing
 
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+Found an awesome DApp, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
 
