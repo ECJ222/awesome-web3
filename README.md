@@ -32,6 +32,22 @@
 * [Hands On: Get Started With Infura and the IPFS on Ethereum](https://www.freecodecamp.org/news/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0/)
 * [How to Set Up a Fully Synced Blockchain Node](https://www.freecodecamp.org/news/ethereum-69-how-to-set-up-a-fully-synced-blockchain-node-in-10-mins-f6318d7aad40/)
 
+## Tools
+
+* [Truffle](https://www.trufflesuite.com/) - is a development environment based on Ethereum Blockchain, used to develop DApps(
+Decentralized applications).
+* [MetaMask](https://metamask.io/) - is a cryptocurrency wallet used to interact with the Ethereum blockchain.
+* [Ganache](https://www.trufflesuite.com/ganache) - is a personal blockchain for rapid Ethereum and Corda distributed application development.
+* [Remix IDE](https://remix.ethereum.org/) - is a Solidity IDE that's used to write, compile and debug Solidity code.
+* [Geth](https://geth.ethereum.org/) - is a command line interface for running Ethereum node implemented in Go Language. 
+* [Parity](https://www.parity.io/technologies/ethereum/) - A Rust-based Ethereum Client.
+* [Ethers.js](https://docs.ethers.io/v5/) - is a lightweight javascript library for interacting with the Ethereum Blockchain and its ecosystem.
+* [Web3.js](https://web3js.readthedocs.io/) - is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+* [Infura](https://infura.io/) - Web3 backend and Infrastructure-as-a-Service (IaaS) provider that allows developers to easily take their blockchain application from testing to scaled deployment
+* [Embark](https://framework.embarklabs.io/) - is a development framework for faster DApp(
+Decentralized application) development.
+* [Drizzle](https://www.trufflesuite.com/drizzle) - is a collection of front-end libraries that make writing dapp front-ends easier and more predictable.
+
 
 [awesome-src]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-href]: https://github.com/sindresorhus/awesome
